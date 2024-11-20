@@ -1,0 +1,114 @@
+{
+  "roadmap": {
+    "heading": "Nuestra Hoja de Ruta",
+    "q4_2024_question": "Q4 2024: Lanzamiento Estratégico del Proyecto",
+    "q4_2024_answers_1": "Desarrollo enfocado del concepto y formación del equipo.",
+    "q4_2024_answers_2": "Lanzamiento del sitio web y activación de redes sociales para presencia temprana.",
+    "q4_2024_answers_3": "Inicio de la preventa, ofreciendo a los primeros inversores acceso exclusivo a Ninja Turtles Coin con descuento.",
+    "q4_2024_answers_4": "Construcción de una comunidad en redes sociales para aumentar la concienciación y la adopción.",
+    "q1_2025_question": "Q1 2025: Excelencia Técnica y Primeras Listas",
+    "q1_2025_answers_1": "Versión beta del juego de Ninja Turtles para testers voluntarios, ofreciendo pequeñas recompensas airdrop.",
+    "q1_2025_answers_2": "Auditorías exhaustivas para generar confianza con los inversores.",
+    "q1_2025_answers_3": "Primeras listas en exchanges descentralizados líderes (DEX) para un acceso rápido a la moneda.",
+    "q2_2025_question": "Q2 2025: Penetración de Mercado y Crecimiento",
+    "q2_2025_answers_1": "Campañas de marketing a gran escala en varios canales (redes sociales, influencers de criptomonedas, podcasts, etc.).",
+    "q2_2025_answers_2": "Listas en exchanges centralizados (CEX) para aumentar la liquidez y el alcance global.",
+    "q2_2025_answers_3": "Ampliación de la funcionalidad Play-to-Earn, introduciendo nuevos modos de juego y recompensas.",
+    "q3_2025_question": "Q3 2025: Expansión y Creación de Valor",
+    "q3_2025_answers_1": "Versión completa del juego de Ninja Turtles con características Play-to-Earn y recompensas integradas en NFT.",
+    "q3_2025_answers_2": "Introducción de casos de uso adicionales para la moneda, incluyendo opciones de staking y asociaciones con otros proyectos."
+  },
+  "why_invest": {
+    "heading": "¿Por qué Invertir en Ninja Turtles Coin?",
+    "point_1_head": "Propuesta de Valor Única:",
+    "point_1_value": "Ninja Turtles Coin combina el mundo de los memes con el poder disruptivo de la tecnología blockchain y el modelo Play-to-Earn, creando una criptomoneda innovadora que va más allá de la mera especulación.",
+    "point_2_head": "Comunidad Fuerte y Comprometida:",
+    "point_2_value": "El éxito de cualquier criptomoneda está profundamente arraigado en su comunidad. Nuestra comunidad, en rápido crecimiento y conectada globalmente, es activa y apoya la visión a largo plazo del proyecto, fomentando un crecimiento de valor sostenible para la moneda.",
+    "point_3_head": "Potencial de Crecimiento a Largo Plazo:",
+    "point_3_value": "Con una planificación estratégica clara y un desarrollo continuo, Ninja Turtles Coin ofrece una base sólida para el crecimiento a largo plazo. Los inversores pueden beneficiarse no solo de la apreciación del precio, sino también del modelo Play-to-Earn innovador y mecanismos de recompensa atractivos.",
+    "point_4_head": "Beneficios Exclusivos para Inversores Tempranos:",
+    "point_4_value": "¡Aprovecha la oportunidad de participar en la preventa de Ninja Turtles Coin como inversor temprano! Durante esta fase, puedes adquirir la moneda a un precio significativamente menor que su posterior cotización en exchanges descentralizados (DEX). La preventa está dividida en varias fases, aumentando el precio del token en cada etapa. Cuanto antes inviertas, mayor será tu ventaja en precio. Además, todos los tokens no vendidos al final de la preventa serán quemados, reduciendo la oferta total y promoviendo la estabilidad del precio.",
+    "caption": "¡Únete ahora y sé parte de una criptomoneda que fusiona entretenimiento, innovación y oportunidad financiera de una manera única y emocionante!"
+  },
+  "about": {
+    "heading": "Sobre Nosotros – ¿Quiénes Somos?",
+    "value": "Ninja Turtles Coin fue fundada por un equipo de expertos en blockchain, analistas financieros y estrategas de marketing. Con nuestro extenso conocimiento en la industria de criptomonedas, creamos Ninja Turtles Coin para ofrecer una oportunidad de inversión única y sostenible que combina diversión con retornos financieros."
+  },
+  "vision": {
+    "heading": "Nuestra Visión",
+    "value": "Nuestra visión es crear una criptomoneda que no sea solo una tendencia temporal, sino que tenga relevancia a largo plazo y estabilidad en su valor. Nuestro objetivo es demostrar que las monedas meme pueden ser más que activos especulativos: pueden convertirse en una parte seria de un portafolio de inversión diversificado."
+  },
+  "functionality": {
+    "heading": "Funcionalidad Play-to-Earn (P2E) Integrada: Resumen de Características",
+    "value": "El juego Play-to-Earn de Ninja Turtles permite a los jugadores ganar Ninja Turtles Coins al completar misiones y tareas diseñadas especialmente dentro del juego. Las misiones varían en dificultad y desafío, requiriendo habilidad, estrategia y trabajo en equipo para tener éxito."
+  },
+  "token_allocation": {
+    "heading": "Asignación de Tokens para P2E:",
+    "point_1": "18% de la oferta total de monedas y el 50% de las tarifas de transacción están asignados para el juego Play-to-Earn.",
+    "point_2": "Estas monedas se distribuyen como recompensas para los jugadores que completan diversas tareas y misiones en el juego."
+  },
+  "game_mechanics": {
+    "heading": "Mecánicas del Juego:",
+    "point_1_head": "Misiones y Tareas:",
+    "point_1_value": "Los jugadores pueden participar en misiones basadas en personajes e historias de Ninja Turtles, ganando recompensas en forma de Ninja Turtles Coins por sus esfuerzos.",
+    "point_2_head": "Múltiples Niveles de Dificultad:",
+    "point_2_value": "Cuanto más difícil sea la misión, mayor será la recompensa, haciendo que el juego sea atractivo tanto para principiantes como para jugadores experimentados.",
+    "point_3_head": "Desafíos Diarios y Semanales:",
+    "point_3_value": "Se ofrecen misiones diarias con recompensas menores y grandes desafíos semanales, donde los jugadores pueden ganar cantidades mayores de monedas.",
+    "point_4_head": "Colección e Intercambio de NFTs:",
+    "point_4_value": "Además de las monedas, se introducen NFTs que los jugadores pueden coleccionar, intercambiar o vender en el mercado."
+  },
+  "benefits": {
+    "heading": "Beneficios:",
+    "point_1_head": "Compromiso del Jugador:",
+    "point_1_value": "El modelo Play-to-Earn aumenta el compromiso de la comunidad, ya que los jugadores no solo se divierten, sino que también tienen un incentivo financiero directo para participar.",
+    "point_2_head": "Demanda Estable de Monedas:",
+    "point_2_value": "Los jugadores que ganan monedas a través del juego pueden convertirse en holders a largo plazo o traders en el mercado, estabilizando e incrementando la demanda de las monedas."
+  },
+  "technical_integration": {
+    "heading": "Integración Técnica:",
+    "point_1_head": "Recompensas Basadas en Blockchain:",
+    "point_1_value": "Las monedas ganadas por los jugadores en el juego se rastrearán en la blockchain y se transferirán directamente a las carteras de los jugadores, garantizando total transparencia y seguridad.",
+    "point_2_head": "Desarrollo del Juego:",
+    "point_2_value": "Se requerirá un equipo de desarrolladores para diseñar el juego y alinear los mecanismos de recompensa con la tecnología blockchain.",
+    "caption": "A través de esta integración, Ninja Turtles Coin no solo se convierte en otro token meme, sino en un ecosistema Play-to-Earn que atrae a una amplia audiencia."
+  },
+  "tokenomics": {
+    "heading": "Tokenomics – Distribución Justa y Reflexiva",
+    "caption": "Oferta Total: 1,000,000,000,000,000 Ninja Turtles Coins – una oferta limitada diseñada para impulsar la apreciación del valor y la sostenibilidad a largo plazo."
+  },
+  "distribution": {
+    "heading": "Distribución:",
+    "point_1_head": "15% para la Preventa:",
+    "point_1_value": "Una porción significativa de tokens se ofrecerá en la preventa, proporcionando a los primeros inversores la oportunidad de adquirir Ninja Turtles Coin a un precio reducido. Estos inversores se beneficiarán de la entrada temprana y el potencial de un crecimiento significativo en valor. La preventa se llevará a cabo en múltiples fases, aumentando el precio del token en cada etapa. Los tokens no vendidos al final de la preventa serán quemados para reducir la oferta total y promover la estabilidad del precio.",
+    "point_2_head": "50% para Cotización Pública:",
+    "point_2_value": "El 50% de los tokens estarán disponibles para cotización en exchanges descentralizados y centralizados, asegurando liquidez y accesibilidad para inversores nuevos y existentes.",
+    "point_3_head": "18% para Recompensas de Juego (P2E):",
+    "point_3_value": "Una parte significativa de la oferta de tokens está destinada a recompensas en el juego Play-to-Earn, fomentando una adopción orgánica y un uso activo de la moneda.",
+    "point_4_head": "8% para Marketing y Desarrollo:",
+    "point_4_value": "El 8% de los tokens estarán reservados para impulsar campañas de marketing, asociaciones estratégicas y el desarrollo continuo del ecosistema de Ninja Turtles Coin.",
+    "point_5_head": "7% para el Equipo y Consultores:",
+    "point_5_value": "El 7% de los tokens estará reservado para el equipo fundador y los consultores, asegurando que estén incentivados para el éxito a largo plazo del proyecto. Estos tokens estarán bloqueados y se liberarán gradualmente para evitar una influencia negativa en el mercado."
+  },
+  "presale": {
+    "heading": "Preventas: Tu Oportunidad como Inversor Temprano",
+    "value": "La preventa de Ninja Turtles Coin es una oportunidad exclusiva para los inversores tempranos de adquirir la moneda a un precio significativamente reducido. Esta venta anticipada consta de múltiples fases, con el precio del token aumentando con cada nueva fase. Cuanto antes inviertas, más beneficios obtienes de los precios reducidos. Los tokens no vendidos durante la fase de preventa serán quemados, reduciendo la oferta total y fortaleciendo el valor de las monedas en circulación. Aprovecha esta oportunidad única para maximizar tu inversión en una etapa temprana y beneficiarte del desarrollo futuro de la moneda."
+  },
+  "charitable": {
+    "heading": "Apoyando Causas Benéficas con Ninja Turtles Coin",
+    "value": "Una misión clave de Ninja Turtles Coin no es solo crear valor económico, sino también tener un impacto social positivo. Por esta razón, hemos asignado un 2% del suministro total de monedas para apoyar causas benéficas. Estos fondos se destinarán a contribuir con diversas iniciativas sociales, con un enfoque especial en la protección y el bienestar de los animales."
+  },
+  "donations": {
+    "heading": "Donaciones a Organizaciones de Bienestar Animal",
+    "caption": "Ninja Turtles Coin está comprometido con la promoción del bienestar animal a nivel global. Esto incluye apoyar refugios para animales, organizaciones de rescate y programas que sensibilizan sobre la protección de especies en peligro de extinción. Los fondos destinados a causas benéficas pueden utilizarse de varias maneras:",
+    "point_1_head": "Donaciones Directas a Refugios y Centros de Rescate de Animales:",
+    "point_1_value": "Donamos regularmente a refugios y centros de rescate que cuidan a animales sin hogar, maltratados o abandonados. Estas donaciones ayudan a proporcionar comida, atención médica, refugio y otros recursos esenciales.",
+    "point_2_head": "Apoyo a Programas de Protección de Especies en Peligro de Extinción:",
+    "point_2_value": "Parte de los fondos se destinará a programas enfocados en la protección de especies en peligro de extinción. Estos programas suelen trabajar de cerca con áreas de conservación para preservar hábitats y combatir la caza furtiva ilegal.",
+    "point_3_head": "Educación y Sensibilización:",
+    "point_3_value": "Otra parte de las donaciones se invertirá en programas educativos para sensibilizar sobre el bienestar animal. Estos programas están dirigidos a escuelas, comunidades y al público en general para educar sobre la importancia de la protección animal y la tenencia responsable de mascotas.",
+    "point_4_head": "Apoyo a Fondos de Ayuda de Emergencia:",
+    "point_4_value": "Durante desastres naturales u otras crisis, proporcionamos fondos para ayudar a los animales necesitados. Estos fondos de ayuda de emergencia se utilizan para apoyar operaciones de rescate rápidas, establecer refugios temporales y asegurar que se ofrezca la atención necesaria.",
+    "caption_2": "Al combinar diversión, ganancias y un compromiso con el bien social, Ninja Turtles Coin ofrece una oportunidad única no solo para invertir en una criptomoneda prometedora, sino también para contribuir a iniciativas benéficas significativas."
+  }
+}

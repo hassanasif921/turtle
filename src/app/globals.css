@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  inset: 0;
+  overflow-x: hidden;
+}
+
+.test-swiper {
+  width: 125%;
+  margin-left: 3%;
+  transform: translateX(-10%);
+  overflow-y: visible;
+}
+
+.test-slide {
+  transform: scale(0.8);
+}
+.slide-box {
+  height: 300px;
+  margin-top: 48px;
+  transition: 0.5s ease-in-out;
+  border-radius: 20px;
+}
+
+.test-swiper .swiper-slide-active {
+  height: 440px !important;
+}
+
+.test-swiper .swiper-slide-active .slide-box {
+  height: 330px !important;
+  margin-top: 0px !important;
+}
+
+.test-swiper .swiper-slide-active .commagrey {
+  display: none;
+}
+.test-swiper .swiper-slide-active .commablue {
+  display: block !important;
+}
+.test-swiper .swiper-slide-active .test-profile {
+  display: none;
+}
+.test-swiper .swiper-slide-active .test-profile-active {
+  display: block !important;
+}
+
+.test-swiper .test-review {
+  background: linear-gradient(180deg, #6967a3 0%, rgba(88, 84, 180, 0) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  margin-top: -7px !important;
+}
+.test-swiper .swiper-slide-active .test-review {
+  background: none;
+  -webkit-background-clip: content-box;
+  -webkit-text-fill-color: #6967a3;
+  background-clip: content-box;
+  text-fill-color: #6967a3;
+}
+
+@media only screen and (max-width: 480px) {
+  .slide-box {
+    height: fit-content !important;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .test-swiper .swiper-slide-active .slide-box {
+    height: fit-content !important;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+}
